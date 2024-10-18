@@ -11,7 +11,7 @@ This system automates the parking process by detecting vehicle entry and exit us
 ![Smart Parking System](Project.jpg)
 
 ### Project Architecture
-![Architecture](Project.jpg)
+![Architecture](Architecture.png)
 
 
 ## Features
