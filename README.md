@@ -8,8 +8,10 @@ This project implements a Smart Parking System using Arduino Uno, IR sensors, a 
 This system automates the parking process by detecting vehicle entry and exit using IR sensors. It opens or closes a gate with a servo motor based on parking slot availability. The remaining slots are displayed on an I2C LCD, making it easy to monitor in real-time.
 
 ### Project Image:
-![Smart Parking System](path/to/your/project-image.jpg)
+![Smart Parking System](Project.jpg)
 
+### Project Architecture
+![Architecture](Project.jpg)
 
 
 ## Features
